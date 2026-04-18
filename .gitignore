@@ -1,0 +1,7 @@
+.env
+.idea/
+target/
+*.class
+dependency-reduced-pom.xml
+.DS_Store
+**/.DS_Store
